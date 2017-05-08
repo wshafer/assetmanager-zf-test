@@ -13,7 +13,6 @@ Zend Framework integration.
 $ git clone git@github.com:wshafer/assetmanager-zf-test.git zf-test
 $ cd zf-test
 $ vagrant up
-$ vagrant ssh
 $ vagrant ssh -c 'composer install'
 ```
 
